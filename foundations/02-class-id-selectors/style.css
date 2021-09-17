@@ -1,0 +1,20 @@
+.paragraph {
+  background-color: rgb(211, 131, 131);
+  font-family: "Verdana", sans-serif;
+}
+
+.paragragh,
+.big {
+  font-size: 24px;
+}
+
+#two {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+#four {
+  background-color: rgb(139, 204, 139);
+  font-size: 24px;
+  font-weight: bold;
+}
